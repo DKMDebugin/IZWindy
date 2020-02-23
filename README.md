@@ -1,2 +1,2 @@
-# codeitup_team11
-An interractive game to introduce windmill efficency to kids
+# IZWindy
+An interactive /gamified web app that uses “Wind Energy” dataset to introduce wind energy to kidss.
